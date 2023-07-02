@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/elysion/static/css/main.f0a7dc5b.css",
+    "main.js": "/elysion/static/js/main.d22a397b.js",
+    "static/media/meal.mp4": "/elysion/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/elysion/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/elysion/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/elysion/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/elysion/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/elysion/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/elysion/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/elysion/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/elysion/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/elysion/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/elysion/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/elysion/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/elysion/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/E.png": "/elysion/static/media/E.ec5aaff9ba7d07a47112.png",
+    "static/media/elysion.png": "/elysion/static/media/elysion.4995dee46f2aeededb2e.png",
+    "static/media/G.png": "/elysion/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/elysion/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/elysion/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/elysion/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/elysion/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/elysion/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/elysion/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/elysion/index.html",
+    "static/media/spoon.svg": "/elysion/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.f0a7dc5b.css.map": "/elysion/static/css/main.f0a7dc5b.css.map",
+    "main.d22a397b.js.map": "/elysion/static/js/main.d22a397b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0a7dc5b.css",
+    "static/js/main.d22a397b.js"
+  ]
+}
